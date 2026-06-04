@@ -4,13 +4,13 @@
 
 double FhtoCs(float fTemp)
 {
-    return ((fTemp-32)*(5/9));
+    return ((fTemp-32)*(5.0/9.0));
 }
 
 int main()
 {
     float fValue=0.0;
-    float dRet=0.0;
+    double dRet=0.0;
 
     printf("Enter temperature in Fahrenheit ");
     scanf("%f",&fValue);
