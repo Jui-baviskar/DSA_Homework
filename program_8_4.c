@@ -13,7 +13,7 @@ int main()
     float dRet=0.0;
 
     printf("Enter temperature in Fahrenheit ");
-    scanf("%d",&fValue);
+    scanf("%f",&fValue);
 
     dRet=FhtoCs(fValue);
 
