@@ -17,7 +17,7 @@ int main()
 
     dRet=FhtoCs(fValue);
 
-    printf("The temperature in celius is %f",fValue);
+    printf("The temperature in celius is %f",dRet);
 
     return 0;
 }
