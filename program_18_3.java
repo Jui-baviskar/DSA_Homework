@@ -22,7 +22,7 @@ public class program_18_3 {
         iNo = sObj.nextInt();
 
         Logic lObj = new Logic();
-        lObj.printEvenNumbers(iNo);
+        lObj.printOddNumbers(iNo);
 
         sObj.close();
     }
