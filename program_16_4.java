@@ -26,7 +26,7 @@ class program_16_4 {
 
     public static void main(String A[]) {
         Scanner sObj = new Scanner(System.in);
-        int iSize = 0, iRet = 0, iCnt = 0;
+        int iSize = 0, iCnt = 0;
         int[] Arr;
 
         System.out.println("Enter number of elements ");
