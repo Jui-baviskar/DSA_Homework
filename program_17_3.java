@@ -26,7 +26,8 @@ public class program_17_3 {
 
         Logic lObj=new Logic();
         lObj.Max(iNo1, iNo2);
-
+        
+        sobj.close();
     }
     
 }
