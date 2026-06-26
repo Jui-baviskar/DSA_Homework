@@ -22,5 +22,7 @@ public class program_19_4 {
 
         Logic lObj=new Logic();
         lObj.printDigits(iNo);
+
+        sObj.close();
     }
 }
