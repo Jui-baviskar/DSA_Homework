@@ -5,7 +5,7 @@ public class program_13_5 {
     public static void Display(int Arr[], int iLength) {
         int iCnt = 0;
 
-        System.out.println("The elements which can be divisible by 5 ");
+        
 
         for (iCnt = 0; iCnt < iLength; iCnt++) {
             if ((Arr[iCnt] % 11) == 0) {
