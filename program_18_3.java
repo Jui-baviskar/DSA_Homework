@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Logic {
-    public void printEvenNumbers(int n) {
+    public void printOddNumbers(int n) {
         int iCnt = 0;
 
         System.out.println("All the even numbers upto " + n + " are");
