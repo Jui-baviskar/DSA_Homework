@@ -34,5 +34,6 @@ public class program_20_3 {
 
         Logic lObj=new Logic();
         lObj.checkPerfect(iNo);
+        sObj.close();
     }
 }
